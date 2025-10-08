@@ -1,0 +1,1 @@
+print("section-A  \nsection-B \nsection-C")
