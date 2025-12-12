@@ -29,4 +29,4 @@ names = ["Arun", "Beema", "Chandru", "Dev", "Esha"]
 hours = [5, 9, 12, 4, 10]
 lower = 6
 upper = 11
-print(employee_filter(names, hours, lower, upper))  # Output: ['Beema',
+print(employee_filter(names, hours, lower, upper)) 
